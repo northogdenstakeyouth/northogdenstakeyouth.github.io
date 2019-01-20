@@ -136,6 +136,11 @@ i.fas {
         padding: 10px;
     }
 
+    #youth-theme {
+        max-width: 90%; 
+        height: auto;
+    }
+
 }
 
 @media only screen and (max-width: 600px) {
